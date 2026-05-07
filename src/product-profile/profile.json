@@ -1,0 +1,19 @@
+{
+  "name": "pbr-asset-naming-qa-suite",
+  "title": "PBR素材検品・命名スイート",
+  "domain": "AdobePlugin",
+  "kind": "adobe-plugin",
+  "host": "Substance3D",
+  "field": "PBR素材検品",
+  "audience": "PBR素材を制作、販売、Unity/Blenderへ渡す制作者",
+  "workflow": "PBRチャンネル、命名、解像度、用途、販売前チェックを同じ検品モデルにまとめる。",
+  "requiredFields": [
+    "materialName",
+    "channel",
+    "textureFile",
+    "namingRule"
+  ],
+  "warningField": "nonStandardChannel",
+  "warningMessage": "標準外チャンネル名のため変換先で確認が必要です。",
+  "qcdsTarget": "A-以上。closed alphaではS-を基準とする。"
+}

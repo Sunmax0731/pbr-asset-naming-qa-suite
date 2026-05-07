@@ -1,0 +1,35 @@
+{
+  "pickupRank": 52,
+  "domain": "AdobePlugin",
+  "ideaNo": 8,
+  "idea": "PBR素材検品・命名スイート",
+  "repository": "pbr-asset-naming-qa-suite",
+  "publish": "BOOTH / GitHub Release",
+  "createdIdeaFolder": "D:/AI/AdobePlugin/created_idea_008_pbr-asset-naming-qa-suite",
+  "zipFile": "D:/AI/AdobePlugin/created_idea_008_pbr-asset-naming-qa-suite/idea_008_pbr-asset-naming-qa-suite.zip",
+  "zipDocumentsChecked": [
+    "metadata.json",
+    "README.md",
+    "01_REQUIREMENTS.md",
+    "02_SPECIFICATION.md",
+    "03_DESIGN.md",
+    "04_IMPLEMENTATION_PLAN.md",
+    "05_TEST_PLAN.md",
+    "06_RELEASE_CHECKLIST.md"
+  ],
+  "zipMetadataRepositoryName": "pbr-asset-naming-qa-suite",
+  "zipMetadataMatchedRepository": true,
+  "existingRepositoryReadmeAtStart": "存在しない",
+  "domainDocsRead": [
+    "D:/AI/IDEAS/AdobePlugin/Design.md",
+    "D:/AI/IDEAS/AdobePlugin/Architecture.md",
+    "D:/AI/IDEAS/AdobePlugin/AGENTS.md",
+    "D:/AI/IDEAS/AdobePlugin/SKILL.md",
+    "D:/AI/AdobePlugin/AGENTS.md",
+    "D:/AI/AdobePlugin/SKILL.md"
+  ],
+  "hostInference": {
+    "host": "Substance3D",
+    "rationale": "PBR素材の命名、チャンネル、テクスチャセット検品はSubstance 3D系制作フローに最も近いため。"
+  }
+}
