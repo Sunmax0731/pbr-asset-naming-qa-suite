@@ -1,0 +1,20 @@
+{
+  "manifestVersion": 5,
+  "id": "sunmax.pbr-asset-naming-qa-suite",
+  "name": "PBR素材検品・命名スイート",
+  "version": "0.1.0",
+  "main": "index.html",
+  "host": [
+    {
+      "app": "SBST",
+      "minVersion": "1.0.0"
+    }
+  ],
+  "entrypoints": [
+    {
+      "type": "panel",
+      "id": "main",
+      "label": "PBR素材検品・命名スイート"
+    }
+  ]
+}
