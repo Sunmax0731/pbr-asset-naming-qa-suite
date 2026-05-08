@@ -1,0 +1,11 @@
+{
+  "product": "pbr-asset-naming-qa-suite",
+  "title": "PBR素材検品・命名スイート",
+  "domain": "AdobePlugin",
+  "ideaNo": 8,
+  "platformType": "adobe-host-plugin",
+  "expectedPublicTarget": "BOOTH / GitHub Release",
+  "browser": null,
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}

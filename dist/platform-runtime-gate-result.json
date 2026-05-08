@@ -1,0 +1,9 @@
+{
+  "product": "pbr-asset-naming-qa-suite",
+  "platformType": "adobe-host-plugin",
+  "pass": true,
+  "method": "runtime-gate",
+  "manualTest": "not-run-by-codex",
+  "manifest": "plugin/manifest.json",
+  "panel": "plugin/panel.html"
+}
