@@ -1,0 +1,18 @@
+{
+  "id": "com.sunmax0731.pbr-asset-naming-qa-suite",
+  "name": "PBR素材検品・命名スイート",
+  "version": "0.1.0-alpha.1",
+  "manifestVersion": 5,
+  "host": {
+    "app": "Substance3D",
+    "minVersion": "1.0.0"
+  },
+  "entrypoints": [
+    {
+      "type": "panel",
+      "id": "closed-alpha-panel",
+      "label": "PBR素材検品・命名スイート",
+      "mainPath": "panel.html"
+    }
+  ]
+}
